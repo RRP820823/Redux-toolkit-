@@ -15,5 +15,5 @@ let store = configureStore({
     error,
   ],
 })
-
+// New comment added
 export default store
